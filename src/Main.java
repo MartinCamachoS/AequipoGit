@@ -5,5 +5,7 @@ void main() {
 
     System.out.println("Jijiji ya le movi");
 
-    System.out.println(256 >> 2 + "no w, porque yo digo w, como la vez");
+    System.out.println("no w, porque yo digo w, como la vez");
+
+    // Martin, cuánto es 110000 >> 11
 }
