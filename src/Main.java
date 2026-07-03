@@ -7,5 +7,5 @@ void main() {
 
     System.out.println("no w, porque yo digo w, como la vez");
 
-    // Martin, cuánto es 110000 >> 11
+    // Martin, cuánto es 110000 >> 11, pues es respuesta correcta como la vez
 }
