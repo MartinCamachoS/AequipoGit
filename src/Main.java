@@ -5,5 +5,5 @@ void main() {
 
     System.out.println("Jijiji ya le movi");
 
-    System.out.println(256 >> 2 + "")
+    System.out.println(256 >> 2 + "");
 }
